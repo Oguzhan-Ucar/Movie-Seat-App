@@ -1,5 +1,5 @@
 # Movie Seat App
 
-React practise
+JavaScript practise
 
 This project deployed with github >>> https://oguzhan-ucar.github.io/movie-seat-app/
